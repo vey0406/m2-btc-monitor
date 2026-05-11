@@ -25,8 +25,8 @@ ALERT_COOLDOWN = 3600  # 1 jam cooldown
 # Data M2 Global (UPDATE MANUAL SETIAP BULAN)
 # Sumber: https://fred.stlouisfed.org/series/M2SL
 M2_DATA = {
-    'value_trillion': 21.37,      # GANTI dengan angka terbaru!
-    'date': '2025-12-01',         # GANTI dengan tanggal data!
+    'value_trillion': 22.69,      # <-- SUDAH DIUPDATE
+    'date': '2026-05-11',         # <-- SUDAH DIUPDATE
 }
 
 # Flask app untuk health check (biar Render tidak sleep)
